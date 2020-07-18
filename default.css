@@ -249,6 +249,7 @@ box-shadow:
 	letter-spacing: -1px;
 	font-size: 2em;
 	color: #cb1e1e;
+	font-weight: bold;
 }
 
 /* Footer */
@@ -403,6 +404,8 @@ ul.style1 h3 {
     font-size: 2em;
     color: #cb1e1e;
     padding-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 }
 
